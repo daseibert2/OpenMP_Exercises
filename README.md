@@ -1,1 +1,1 @@
-# OpenMP_Exercises
+Exercises performed after OpenMP lectures
