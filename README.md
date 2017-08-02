@@ -1,1 +1,1 @@
-Exercises performed after OpenMP lectures
+# JoelC_Parallel_Excercises
