@@ -1,1 +1,1 @@
-# JoelC_Parallel_Excercises
+Edit errors in given code
